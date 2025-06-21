@@ -16,7 +16,7 @@ I'm a full-stack developer driven by a passion for turning ideas into reality th
 - 🌱 I’m currently learning more about advanced database optimization techniques.
 - 👯 I’m looking to collaborate on impactful open-source projects.
 - 📫 How to reach me: [**WhatsApp**](https://wa.me/263787211325) or by [**Email**](mailto:morebnyemba@gmail.com).
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute! *(Replace with your own fun fact)*
+
 
 ---
 
