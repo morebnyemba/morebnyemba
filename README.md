@@ -86,6 +86,20 @@ I am actively looking for a new role where I can contribute to impactful project
 
 ---
 
+### ☕ Support My Work
+
+If you find my projects helpful or want to support my open-source contributions, you can sponsor me on GitHub! Your support helps me dedicate more time to creating quality software and contributing to the developer community.
+
+<p align="center">
+  <a href="https://github.com/sponsors/morebnyemba">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/>
+  </a>
+</p>
+
+**Note:** GitHub Sponsors transactions may take some time to reflect in your account, especially if you're in a different timezone. Payment processing typically occurs within 24-48 hours, and the reflection time can vary based on your location and payment method.
+
+---
+
 ### 📊 My GitHub Stats
 
 <p align="center">
