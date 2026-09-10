@@ -1,80 +1,119 @@
 <div align="center">
 
-# Hi, I'm Moreblessing Nyemba 👋
-### Full-Stack Engineer · Distributed Systems & FinTech Integrations
+# Moreblessing Nyemba
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263787211325)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morebnyemba@gmail.com)
+**Full-Stack Engineer — Distributed Systems, FinTech & Real-Time Platforms**
+
+<sub>Django/DRF · React & Next.js · Erlang real-time engines · Docker microservices</sub>
+
+<br />
+
+[![Website](https://img.shields.io/badge/Portfolio-slykertech.net-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://slykertech.net)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/263787211325)
+[![Email](https://img.shields.io/badge/Email-morebnyemba%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:morebnyemba@gmail.com)
 
 </div>
 
----
+<br />
 
-### 👨‍💻 About Me
+## About
 
-I'm a full-stack developer building production systems across FinTech, WhatsApp-based automation, and real-time platforms — from Django/DRF backends and Erlang-powered messaging engines to React/Next.js frontends and cross-platform mobile apps. I care about systems that stay correct under load, not just ones that work in a demo.
+I design and ship production systems end to end — backend architecture, API design, database performance, and the frontends that sit on top of them. My work spans multi-tenant SaaS, WhatsApp-based automation at scale, and client platforms across FinTech, travel, and logistics.
 
-- 🌱 Currently deep in advanced database optimization and scaling multi-tenant SaaS infrastructure
-- 👯 Open to collaborating on impactful open-source projects
-- 💼 **Actively seeking a full-stack / backend engineering role** — reach out via [WhatsApp](https://wa.me/263787211325) or [email](mailto:morebnyemba@gmail.com)
+I'm currently **available for full-stack / backend engineering roles**, and open to collaborating on ambitious, technically serious projects.
 
----
+<br />
 
-### 🛠️ Tech Stack
+## Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,react,nextjs,nodejs,express,postgres,redis,docker,nginx,git,linux,cpp,html,css,vscode&theme=dark" alt="tech stack" />
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Backend:** Python · Django · Django REST Framework · Flask · FastAPI · Erlang (real-time engines)
-**Frontend:** React · Next.js (App Router) · React Native · Beeware (native mobile)
-**Infrastructure:** Docker · Redis · Nginx Proxy Manager · Microservices · PostgreSQL
+**Backend**
+- Python · Django · DRF
+- Flask · FastAPI
+- Erlang (real-time)
 
----
+</td>
+<td valign="top" width="33%">
 
-### 🚀 Featured Projects
+**Frontend**
+- React · Next.js (App Router)
+- React Native
+- Beeware (native mobile)
 
-**Products & Platforms**
+</td>
+<td valign="top" width="33%">
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **AutoWhats** | Multi-tenant WhatsApp automation SaaS | `Python` `Django` | [Live](https://autowhats.co.zw) |
-| **whatsappcrm** | WhatsApp chatbot & CRM platform built for Slyker Tech Web Services | `Python` `Django` | [Code](https://github.com/morebnyemba/whatsappcrm) |
-| **StayAfrica** | Cross-platform travel/booking app for the African market | `TypeScript` `React Native` | [Live](https://stayafrica.app) · [Code](https://github.com/morebnyemba/stayafrica) |
-| **hanna** | Conversational chatbot engine | `Python` | [Code](https://github.com/morebnyemba/hanna) |
-| **SLYKCASINO** | Online casino/gaming platform | `TypeScript` | [Code](https://github.com/morebnyemba/SLYKCASINO) |
-| **zimsecbot** | Bot serving ZIMSEC past papers and practice content | `Python` | [Code](https://github.com/morebnyemba/zimsecbot) |
-| **ovii** | Full-stack product build | `Python` | [Code](https://github.com/morebnyemba/ovii) |
+**Infrastructure**
+- Docker · Microservices
+- PostgreSQL · Redis
+- Nginx Proxy Manager
 
-**Client & Professional Websites**
-
-| Project | Live Site |
-|---|---|
-| **Slyker Tech Web Services** | [slykertech.net](https://slykertech.net) |
-| **Innovanti** | [innovanti.co.zw](https://innovanti.co.zw) |
-| **Auqamel** | [auqamel.co.zw](https://auqamel.co.zw) |
-| **Skypax Freight** | [skypaxfreight.co.zw](https://skypaxfreight.co.zw) |
-| **Verity People Solutions (Zimbabwe)** | [veritaspeople.co.zw](https://veritaspeople.co.zw) |
-
-*More on my [pinned repositories](https://github.com/morebnyemba?tab=repositories) →*
-
----
-
-### 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=morebnyemba&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="morebnyemba's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morebnyemba&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,react,nextjs,nodejs,express,postgres,redis,docker,nginx,git,linux,cpp,html,css&theme=dark" alt="tech stack icons" />
 </div>
 
+<br />
+
+## Products & Platforms
+
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Description</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td><a href="https://autowhats.co.zw"><b>AutoWhats</b></a></td>
+<td>Multi-tenant WhatsApp automation SaaS</td>
+<td><code>Python</code> <code>Django</code></td>
+</tr>
+<tr>
+<td><a href="https://stayafrica.app"><b>StayAfrica</b></a></td>
+<td>Cross-platform travel & booking app for the African market</td>
+<td><code>TypeScript</code> <code>React Native</code></td>
+</tr>
+</table>
+
+## Client & Professional Websites
+
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">Live Site</th>
+</tr>
+<tr><td><b>Slyker Tech Web Services</b></td><td><a href="https://slykertech.net">slykertech.net</a></td></tr>
+<tr><td><b>Innovanti</b></td><td><a href="https://innovanti.co.zw">innovanti.co.zw</a></td></tr>
+<tr><td><b>Auqamel</b></td><td><a href="https://auqamel.co.zw">auqamel.co.zw</a></td></tr>
+<tr><td><b>Skypax Freight</b></td><td><a href="https://skypaxfreight.co.zw">skypaxfreight.co.zw</a></td></tr>
+<tr><td><b>Verity People Solutions</b></td><td><a href="https://veritaspeople.co.zw">veritaspeople.co.zw</a></td></tr>
+</table>
+
+<sub>Also building: WhatsApp CRM & chatbot tooling, a conversational engine ("Hanna"), an online gaming platform, and a ZIMSEC study-content bot.</sub>
+
+<br />
+
+## GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morebnyemba&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=morebnyemba&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morebnyemba&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morebnyemba&theme=radical&hide_border=true" alt="GitHub streak" />
 </div>
 
----
+<br />
 
 <div align="center">
 
-📫 **Let's build something.** [WhatsApp](https://wa.me/263787211325) · [Email](mailto:morebnyemba@gmail.com)
+**Let's build something.**
+[slykertech.net](https://slykertech.net) · [WhatsApp](https://wa.me/263787211325) · [Email](mailto:morebnyemba@gmail.com)
 
 </div>
