@@ -34,14 +34,27 @@ I'm a full-stack developer building production systems across FinTech, WhatsApp-
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**whatsappcrm**](https://github.com/morebnyemba/whatsappcrm) | WhatsApp chatbot & CRM platform built for Slyker Tech Web Services | `Python` `Django` |
-| [**hanna**](https://github.com/morebnyemba/hanna) | Conversational chatbot engine | `Python` |
-| [**stayafrica**](https://github.com/morebnyemba/stayafrica) | Cross-platform travel/booking app for the African market | `TypeScript` `React Native` |
-| [**SLYKCASINO**](https://github.com/morebnyemba/SLYKCASINO) | Online casino/gaming platform | `TypeScript` |
-| [**zimsecbot**](https://github.com/morebnyemba/zimsecbot) | Bot serving ZIMSEC past papers and practice content | `Python` |
-| [**ovii**](https://github.com/morebnyemba/ovii) | Full-stack product build | `Python` |
+**Products & Platforms**
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **AutoWhats** | Multi-tenant WhatsApp automation SaaS | `Python` `Django` | [Live](https://autowhats.co.zw) |
+| **whatsappcrm** | WhatsApp chatbot & CRM platform built for Slyker Tech Web Services | `Python` `Django` | [Code](https://github.com/morebnyemba/whatsappcrm) |
+| **StayAfrica** | Cross-platform travel/booking app for the African market | `TypeScript` `React Native` | [Live](https://stayafrica.app) · [Code](https://github.com/morebnyemba/stayafrica) |
+| **hanna** | Conversational chatbot engine | `Python` | [Code](https://github.com/morebnyemba/hanna) |
+| **SLYKCASINO** | Online casino/gaming platform | `TypeScript` | [Code](https://github.com/morebnyemba/SLYKCASINO) |
+| **zimsecbot** | Bot serving ZIMSEC past papers and practice content | `Python` | [Code](https://github.com/morebnyemba/zimsecbot) |
+| **ovii** | Full-stack product build | `Python` | [Code](https://github.com/morebnyemba/ovii) |
+
+**Client & Professional Websites**
+
+| Project | Live Site |
+|---|---|
+| **Slyker Tech Web Services** | [slykertech.net](https://slykertech.net) |
+| **Innovanti** | [innovanti.co.zw](https://innovanti.co.zw) |
+| **Auqamel** | [auqamel.co.zw](https://auqamel.co.zw) |
+| **Skypax Freight** | [skypaxfreight.co.zw](https://skypaxfreight.co.zw) |
+| **Verity People Solutions (Zimbabwe)** | [veritaspeople.co.zw](https://veritaspeople.co.zw) |
 
 *More on my [pinned repositories](https://github.com/morebnyemba?tab=repositories) →*
 
