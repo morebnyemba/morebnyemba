@@ -2,9 +2,9 @@
 
 # Moreblessing Nyemba
 
-**Full-Stack Engineer — Distributed Systems, FinTech & Real-Time Platforms**
+**Full-Stack Engineer — AI Integrations, Distributed Systems & FinTech**
 
-<sub>Django/DRF · React & Next.js · Erlang real-time engines · Docker microservices</sub>
+<sub>Django/DRF · React & Next.js · LLM & AI Agent Integrations · Erlang real-time engines · Docker microservices</sub>
 
 <br />
 
@@ -18,9 +18,9 @@
 
 ## About
 
-I design and ship production systems end to end — backend architecture, API design, database performance, and the frontends that sit on top of them. My work spans multi-tenant SaaS, WhatsApp-based automation at scale, and client platforms across FinTech, travel, and logistics.
+I design and ship production systems end to end — backend architecture, API design, database performance, and the frontends that sit on top of them. My work spans multi-tenant SaaS, WhatsApp-based automation at scale, and client platforms across FinTech, travel, and logistics — with deep, hands-on expertise wiring AI/LLM tooling (OpenAI, Anthropic Claude, agentic workflows, conversational automation) into real production systems, not just prototypes.
 
-I'm currently **available for full-stack / backend engineering roles**, and open to collaborating on ambitious, technically serious projects.
+I'm **not looking for a role** — I'm taking on new projects. If you need a production-grade AI integration, a conversational automation platform, or a full-stack build done right, let's talk.
 
 <br />
 
@@ -28,7 +28,7 @@ I'm currently **available for full-stack / backend engineering roles**, and open
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Backend**
 - Python · Django · DRF
@@ -36,7 +36,7 @@ I'm currently **available for full-stack / backend engineering roles**, and open
 - Erlang (real-time)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Frontend**
 - React · Next.js (App Router)
@@ -44,7 +44,16 @@ I'm currently **available for full-stack / backend engineering roles**, and open
 - Beeware (native mobile)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
+
+**AI & Automation**
+- OpenAI & Anthropic Claude APIs
+- Agentic workflows & tool-calling
+- RAG pipelines & vector search
+- Conversational / WhatsApp AI automation
+
+</td>
+<td valign="top" width="25%">
 
 **Infrastructure**
 - Docker · Microservices
@@ -57,6 +66,12 @@ I'm currently **available for full-stack / backend engineering roles**, and open
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,react,nextjs,nodejs,express,postgres,redis,docker,nginx,git,linux,cpp,html,css&theme=dark" alt="tech stack icons" />
+<br />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/RAG_%2F_Vector_Search-4B32C3?style=flat-square" alt="RAG / Vector Search" />
 </div>
 
 <br />
@@ -71,8 +86,13 @@ I'm currently **available for full-stack / backend engineering roles**, and open
 </tr>
 <tr>
 <td><a href="https://autowhats.co.zw"><b>AutoWhats</b></a></td>
-<td>Multi-tenant WhatsApp automation SaaS</td>
-<td><code>Python</code> <code>Django</code></td>
+<td>Multi-tenant WhatsApp automation SaaS with AI-driven conversational flows</td>
+<td><code>Python</code> <code>Django</code> <code>LLM Integration</code></td>
+</tr>
+<tr>
+<td><b>Hanna</b></td>
+<td>Conversational AI engine for automated, context-aware chat experiences</td>
+<td><code>Python</code> <code>LLM Integration</code></td>
 </tr>
 <tr>
 <td><a href="https://stayafrica.app"><b>StayAfrica</b></a></td>
@@ -95,7 +115,7 @@ I'm currently **available for full-stack / backend engineering roles**, and open
 <tr><td><b>Verity People Solutions</b></td><td><a href="https://veritaspeople.co.zw">veritaspeople.co.zw</a></td></tr>
 </table>
 
-<sub>Also building: WhatsApp CRM & chatbot tooling, a conversational engine ("Hanna"), an online gaming platform, and a ZIMSEC study-content bot.</sub>
+<sub>Also building: WhatsApp CRM & chatbot tooling, an online gaming platform, and a ZIMSEC study-content bot.</sub>
 
 <br />
 
@@ -113,7 +133,7 @@ I'm currently **available for full-stack / backend engineering roles**, and open
 
 <div align="center">
 
-**Let's build something.**
+**Have a project in mind? Let's build it.**
 [slykertech.net](https://slykertech.net) · [WhatsApp](https://wa.me/263787211325) · [Email](mailto:morebnyemba@gmail.com)
 
 </div>
