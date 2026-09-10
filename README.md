@@ -1,96 +1,80 @@
-# Hi there, I'm Moreblessing Nyemba 👋
+<div align="center">
 
-<a href="https://wa.me/263787211325" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="mailto:morebnyemba@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+# Hi, I'm Moreblessing Nyemba 👋
+### Full-Stack Engineer · Distributed Systems & FinTech Integrations
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263787211325)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morebnyemba@gmail.com)
+
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a full-stack developer driven by a passion for turning ideas into reality through clean and efficient code. With a strong foundation in Python, JavaScript, and C++ ecosystems, I enjoy tackling challenges across the entire development stack. I also have experience developing cross-platform and native mobile applications using frameworks such as React Native and Python's Beeware, expanding my ability to deliver solutions across various platforms.
+I'm a full-stack developer building production systems across FinTech, WhatsApp-based automation, and real-time platforms — from Django/DRF backends and Erlang-powered messaging engines to React/Next.js frontends and cross-platform mobile apps. I care about systems that stay correct under load, not just ones that work in a demo.
 
-- 🌱 I’m currently learning more about advanced database optimization techniques.
-- 👯 I’m looking to collaborate on impactful open-source projects.
-- 📫 How to reach me: [**WhatsApp**](https://wa.me/263787211325) or by [**Email**](mailto:morebnyemba@gmail.com).
-
+- 🌱 Currently deep in advanced database optimization and scaling multi-tenant SaaS infrastructure
+- 👯 Open to collaborating on impactful open-source projects
+- 💼 **Actively seeking a full-stack / backend engineering role** — reach out via [WhatsApp](https://wa.me/263787211325) or [email](mailto:morebnyemba@gmail.com)
 
 ---
 
-### ✨ My Technical Skill Set
+### 🛠️ Tech Stack
 
-Here's a snapshot of the technologies I work with. I'm proficient with these core languages and have extensive experience with their popular frameworks.
-
-**Languages & Databases:**
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,js,react,nextjs,nodejs,express,postgres,redis,docker,nginx,git,linux,cpp,html,css,vscode&theme=dark" alt="tech stack" />
 </p>
 
-**Frameworks & Libraries:**
-- **Python:** Django, Flask, FastAPI, Beeware
-- **JavaScript:** Node.js, Express.js, React.js, React Native
-- I also have foundational knowledge of other languages like Java and C#.
-
-**Tools & Platforms:**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-  </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCode" width="60" height="60"/>
-  </a>
-</p>
+**Backend:** Python · Django · Django REST Framework · Flask · FastAPI · Erlang (real-time engines)
+**Frontend:** React · Next.js (App Router) · React Native · Beeware (native mobile)
+**Infrastructure:** Docker · Redis · Nginx Proxy Manager · Microservices · PostgreSQL
 
 ---
 
-### 🚀 My Featured Projects
+### 🚀 Featured Projects
 
-*Your pinned repositories will appear here automatically. Make sure to add a great description and topics to each one on GitHub! Here is an example of how you can describe your project in its "About" section:*
+**Products & Platforms**
 
-**`BetBlitz`** - A full-stack WhatsApp betting platform with a cross-platform mobile app. `(Built with: Python, Django, React Native, PostgreSQL, Redis)`
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **AutoWhats** | Multi-tenant WhatsApp automation SaaS | `Python` `Django` | [Live](https://autowhats.co.zw) |
+| **whatsappcrm** | WhatsApp chatbot & CRM platform built for Slyker Tech Web Services | `Python` `Django` | [Code](https://github.com/morebnyemba/whatsappcrm) |
+| **StayAfrica** | Cross-platform travel/booking app for the African market | `TypeScript` `React Native` | [Live](https://stayafrica.app) · [Code](https://github.com/morebnyemba/stayafrica) |
+| **hanna** | Conversational chatbot engine | `Python` | [Code](https://github.com/morebnyemba/hanna) |
+| **SLYKCASINO** | Online casino/gaming platform | `TypeScript` | [Code](https://github.com/morebnyemba/SLYKCASINO) |
+| **zimsecbot** | Bot serving ZIMSEC past papers and practice content | `Python` | [Code](https://github.com/morebnyemba/zimsecbot) |
+| **ovii** | Full-stack product build | `Python` | [Code](https://github.com/morebnyemba/ovii) |
+
+**Client & Professional Websites**
+
+| Project | Live Site |
+|---|---|
+| **Slyker Tech Web Services** | [slykertech.net](https://slykertech.net) |
+| **Innovanti** | [innovanti.co.zw](https://innovanti.co.zw) |
+| **Auqamel** | [auqamel.co.zw](https://auqamel.co.zw) |
+| **Skypax Freight** | [skypaxfreight.co.zw](https://skypaxfreight.co.zw) |
+| **Verity People Solutions (Zimbabwe)** | [veritaspeople.co.zw](https://veritaspeople.co.zw) |
+
+*More on my [pinned repositories](https://github.com/morebnyemba?tab=repositories) →*
 
 ---
 
-### 💼 Actively Seeking Opportunities
+### 📊 GitHub Stats
 
-I am actively looking for a new role where I can contribute to impactful projects and continue to grow as a developer. If your team is looking for a passionate and skilled full-stack engineer, I would love to connect and discuss how I can be a valuable asset.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=morebnyemba&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="morebnyemba's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morebnyemba&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morebnyemba&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morebnyemba&show_icons=true&theme=radical&rank_icon=github" alt="morebnyemba's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morebnyemba&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
+📫 **Let's build something.** [WhatsApp](https://wa.me/263787211325) · [Email](mailto:morebnyemba@gmail.com)
+
+</div>
